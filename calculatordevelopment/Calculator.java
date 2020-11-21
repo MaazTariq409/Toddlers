@@ -433,10 +433,6 @@ public class Calculator extends javax.swing.JFrame {
         // TODO add your handling code here:
     }//GEN-LAST:event_jTxtDisplayActionPerformed
 
-    private void jTextDisplay2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextDisplay2ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jTextDisplay2ActionPerformed
-
     /**
      * @param args the command line arguments
      */
